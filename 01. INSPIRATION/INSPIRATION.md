@@ -42,5 +42,58 @@ Quelles difficultés le système aujoud'hui en place amène-t-il dans le quotidi
 
 # Academic ressources
 
+Sellen, Abigail J., et Richard H. R. Harper. The Myth of the Paperless Office. MIT Press, 2003.
 
+Ltd, ICB-InterConsult Bulgaria. « PAPERS, MY FRIEND, ARE BLOWING IN THE WIND: TOWARDS A PAPERLESS ADMINISTRATION ». Perspectives of Law and Public Administration 7, nᵒ 1 (2018): 1‑22.
+
+Orantes-Jiménez, Sandra-Dinora, Alejandro Zavala-Galindo, et Graciela Vázquez-Álvarez. « Paperless Office: A New Proposal for Organizations » 13, nᵒ 3 (2015).
+
+Rizza, Caroline. « La fracture numérique, paradoxe de la génération Internet ». Hermès, La Revue 45, nᵒ 2 (2006): 25‑32. https://doi.org/10.4267/2042/24031.
+
+Pasquier, Dominique. « Le numérique à l’épreuve des fractures sociales ». Informations sociales 205, nᵒ 1 (2022): 14‑20. https://doi.org/10.3917/inso.205.014.
+
+Granjon, Fabien. « Classes populaires et usages de l’informatique connectée ». http://journals.openedition.org/lectures. Mines (Presses des). Consulté le 17 avril 2023. https://journals.openedition.org/lectures/54930.
+
+La librairie ADEME. « Capital numérique ». Consulté le 17 avril 2023. https://librairie.ademe.fr/urbanisme-et-batiment/436-capital-numerique.html.
+
+Diair. « Enquête sur les usages numériques des personnes réfugiées ⋆ Diair ». Consulté le 17 avril 2023. https://accueil-integration-refugies.fr/project/enquete-sur-les-usages-numeriques-des-personnes-refugiees/.
+
+Demory, Matthieu, et Nouran Gad. « Expériences migratoires et communications numériques en Méditerranée ». Socio-anthropologie, nᵒ 40 (1 décembre 2019): 135‑48. https://doi.org/10.4000/socio-anthropologie.6031.
+
+Socio-anthropologie. « Les migrants numériques. Corps, identités et technologies « par le nombre » dans l’imaginaire migratoire ». Text. Publications de la Sorbonne, 4 juillet 2018. https://journals.openedition.org/socio-anthropologie/3363.
+
+« Le numérique, un outil à double tranchant | European Website on Integration », 30 mars 2023. https://ec.europa.eu/migrant-integration/library-document/le-numerique-un-outil-double-tranchant_fr.
+
+
+
+
+
+
+# Rapports et stratégies
+
+ChF, Chancellerie fédérale. « Suisse numérique ». Consulté le 3 mai 2023. https://www.bk.admin.ch/bk/fr/home/digitale-transformation-ikt-lenkung/digitale-schweiz.html.
+
+« Stratégie numérique du canton de Vaud - digitale Strategie des Kantons Waadt | État de Vaud ». Consulté le 17 avril 2023. https://www.vd.ch/strategie-numerique-du-canton-de-vaud-digitale-strategie-des-kantons-waadt.
+
+EVAM. « Notre stratégie, l’autonomie des migrants ». Consulté le 17 avril 2023. https://www.evam.ch/que-faisons-nous/autonomie-migrants-strategie/.
+
+« Inclusion numérique et personnes non scolarisées | Enssib ». Consulté le 17 avril 2023. https://www.enssib.fr/services-et-ressources/questions-reponses/inclusion-numerique-et-personnes-non-scolarisees.
+
+
+https://integration.uqam.ca/wp-content/uploads/sites/32/2018/02/Rapport-final-ACEI-mars18.pdf
+
+    *RAPPORT FINAL RELATIF À LA RECHERCHE PORTANT SUR L’UTILISATION D’INTERNET PAR LES IMMIGRANTS AU CANADA*
+
+https://serval.unil.ch/resource/serval:BIB_29565.P001/REF
+
+    *FNS – Fonds national suisse de la recherche scientifique  
+    PNR 51 – Programme national de recherche «Intégration et exclusion»  
+    Projet «La fracture numérique: émergence, évolution, enjeux et perspectives»  
+    La fracture numérique: état de la question et stratégie de recherche Premier rapport intermédia*
+
+« Fracture numérique et l’accès aux biens et services - Comprendre le numérique - UNIGE », 3 mai 2021. https://www.unige.ch/comprendre-le-numerique/cours-transversal/projets-des-etudiant-esdigital-clinics/2022/fracture/.
+
+« L’inclusion numérique est l’affaire de tous | TravailSuisse », 21 décembre 2022. https://www.travailsuisse.ch/fr/autres-themes/2022-12-21/linclusion-numerique-est-laffaire-de-tous.
+
+L’Agence des Nations Unies pour les réfugiés. « La fracture numérique et les réfugiés ». UNHCR. Consulté le 17 avril 2023. https://www.unhcr.org/fr-fr/la-fracture-numerique-et-les-refugies.html.
 
