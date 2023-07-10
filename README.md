@@ -18,24 +18,3 @@ In the **DATA** folder on GitHub, upload the material you produced and collected
 
 In the **OUTPUT** folder on GitHub, upload the various iterations of your masters thesis text, as well as the images you want to use
 
-
----
-
-**How to start:**
-
-- First, make sure you created a Github account. You can create a Github account by accessing this official page and clicking on [Sign up](https://github.com/).
-- Once your Github account created, access this repository and `fork` it. You can fork it by clicking on the Fork button, located on the top right corner.
-- This repository will then appear in your Github repositories.
-
-**How to push to your own `head-md2-thesis` repository**:
-
-- From the Terminal
-- From a Github Client 
-
-**How to structure your MD files inside the respective folders**
-
-- ...
-
-**How to refer to your repository's elements inside your master's thesis text**
-
-- ...
