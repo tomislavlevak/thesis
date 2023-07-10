@@ -82,14 +82,14 @@ EVAM. « Notre stratégie, l’autonomie des migrants ». Consulté le 17 avri
 
 https://integration.uqam.ca/wp-content/uploads/sites/32/2018/02/Rapport-final-ACEI-mars18.pdf
 
-    *RAPPORT FINAL RELATIF À LA RECHERCHE PORTANT SUR L’UTILISATION D’INTERNET PAR LES IMMIGRANTS AU CANADA*
+*RAPPORT FINAL RELATIF À LA RECHERCHE PORTANT SUR L’UTILISATION D’INTERNET PAR LES IMMIGRANTS AU CANADA*
 
 https://serval.unil.ch/resource/serval:BIB_29565.P001/REF
 
-    *FNS – Fonds national suisse de la recherche scientifique  
-    PNR 51 – Programme national de recherche «Intégration et exclusion»  
-    Projet «La fracture numérique: émergence, évolution, enjeux et perspectives»  
-    La fracture numérique: état de la question et stratégie de recherche Premier rapport intermédia*
+*FNS – Fonds national suisse de la recherche scientifique  
+PNR 51 – Programme national de recherche «Intégration et exclusion»  
+Projet «La fracture numérique: émergence, évolution, enjeux et perspectives»  
+La fracture numérique: état de la question et stratégie de recherche Premier rapport intermédia*
 
 « Fracture numérique et l’accès aux biens et services - Comprendre le numérique - UNIGE », 3 mai 2021. https://www.unige.ch/comprendre-le-numerique/cours-transversal/projets-des-etudiant-esdigital-clinics/2022/fracture/.
 
