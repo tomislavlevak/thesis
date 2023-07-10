@@ -97,3 +97,36 @@ https://serval.unil.ch/resource/serval:BIB_29565.P001/REF
 
 L’Agence des Nations Unies pour les réfugiés. « La fracture numérique et les réfugiés ». UNHCR. Consulté le 17 avril 2023. https://www.unhcr.org/fr-fr/la-fracture-numerique-et-les-refugies.html.
 
+# Références Border Forensics
+
+- Spade, Dean. Normal Life: Administrative Violence, Critical Trans Politics, and the Limits of Law. Durham: Duke University Press, 2015.
+
+- Bertrand, Anne-Laure. Dans la jungle des permis de séjour. Parcours administratifs et intégration professionnelle des réfugiés en Suisse. Zurich: Seismo, 2020. https://doi.org/10.33058/seismo.20733.
+
+- Coulon, Giada de. L’illégalité Régulière Au Quotidien. Ethnographie Du Régime de l’aide d’urgence En Suisse. Lausanne: Antipodes, 2019.
+
+- Miaz, Jonathan. “Qui peut rester et qui doit partir ?” Trajectoires [online] Hors série 3 (2017). https://doi.org/10.4000/trajectoires.2398.
+
+- Borrelli, Lisa Marie. “Should (S)He Stay or Should (S)He Go? – Street-Level Suspicion and the Construction of the ‘(Un)Deserving Migrant.’” Geopolitics, no. 0 (September 27, 2020): 1–24. https://doi.org/10.1080/14650045.2020.1814257.
+
+- Burton-Jeangros, Claudine, Aline Duvoisin, Liala Consoli, Julien Fakhoury, and Yves-Laurent Julien Jackson. “The Well-Being of Newly Regularized Migrant Workers: Determinants of Their Satisfaction with Life as Compared to Undocumented Migrant Workers and Regular Local Residents.” Comparative Migration Studies 9, no. 1 (2021). https://doi.org/10.1186/s40878-021-00244-2.
+
+- Affolter, Laura. “Trained to Disbelieve: The Normalisation of Suspicion in a Swiss Asylum Administration Office.” Geopolitics, 2021, 1–24. https://doi.org/10.1080/14650045.2021.1897577.
+
+- Beneduce, Roberto. “Undocumented Bodies, Burned Identities: Refugees, sans Papiers, Harraga — When Things Fall Apart.” Social Science Information 47, no. 4 (December 1, 2008): 505–27. https://doi.org/10.1177/0539018408096444.
+
+- Herd, Pamela, and Donald P. Moynihan. Administrative Burden: Policymaking by Other Means. New York: Russell Sage Foundation, 2019.
+
+- Leyvraz, Anne-Cécile, Raphaël Rey, Damian Rosset, Robin Stünzi, Teresia Gordzielik, Barbara von Rütte, and Nesa Zimmermann. Asile et abus regards pluridisciplinaires sur un discours dominant. Zürich: Seismo, 2020.
+
+- Laungaramsri, Pinkaew. “Governing by Paper: Mediating Textual Border and Negotiating Mobility in Thailand.” South East Asia Research 28, no. 3 (July 2, 2020): 267–83. https://doi.org/10.1080/0967828X.2020.1813622.
+
+- Ruíz, Elena, Nora Berenstain, and University of Arkansas Press. “Gender-Based Administrative Violence as Colonial Strategy.” Philosophical Topics 46, no. 2 (2018): 209–27. https://doi.org/10.5840/philtopics201846219.
+
+- Esaiasson, Peter, Nazita Lajevardi, and Jacob Sohlberg. “Reject, Limbo, and Accept: The Effect of Migration Decisions on Asylum Seekers.” Journal of Ethnic and Migration Studies, 2022, 1–15. https://doi.org/10.1080/1369183X.2022.2042222.
+
+- Fassin, Didier, and Estelle D’Halluin. “The Truth from the Body: Medical Certificates as Ultimate Evidence for Asylum Seekers.” American Anthropologist 107, no. 4 (2005): 597–608. https://www.jstor.org/stable/3567378.
+
+- Shala, Mirëlinda, Naser Morina, Corina Salis Gross, Andreas Maercker, and Eva Heim. “A Point in the Heart: Concepts of Emotional Distress Among Albanian-Speaking Immigrants in Switzerland.” Culture, Medicine and Psychiatry 44, no. 1 (2020): 1–34. https://doi.org/10.1007/s11013-019-09638-5.
+
+-  Nguyen, Aude. « L'agonie administrative des exilés. Une clinique de l'asile », L'Autre, vol. 15, no. 2, 2014, pp. 197-206.
